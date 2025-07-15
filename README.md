@@ -20,5 +20,5 @@ Technologies Used
 - pandas
 - Poetry (dependency management and packaging)
 - argparse (CLI interface)
-- 
+  
 
